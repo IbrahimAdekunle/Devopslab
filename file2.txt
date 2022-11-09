@@ -1,2 +1,3 @@
 This is a new file created
+This is another file created by user2.
 
